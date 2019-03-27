@@ -1,4 +1,8 @@
 master 1
 master 2 desde repo2
+<<<<<<< HEAD
 master 1
 master 1
+=======
+master 2 de nuevo
+>>>>>>> 4347668827c8250ebe7500d7bc88e000703f5dcc
